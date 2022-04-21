@@ -7,10 +7,9 @@ PC からの閲覧でもモダンな UI で操作可能です
 ## 機能
 Share BY YYSUB
 
-我們分享一些可以直接獲取TS視頻檔案的一些設備，以下設備為字幕組自行搭建的，請不要濫用。請注意以下項目僅限學習與交流使用，請勿用於任何商業用途
-可以複製到瀏覽器打開他們，便是可以公用的EPGStation;我們可以通過此類獲取到ts檔案，或者直接在上面預約節目。請注意預約節目后待你下載完成后，請務必記得刪除它們。
+We share some devices that can directly get the TS video file. The following equipment is built by the subtitle group, please do not abuse. Note that the following items are limited to learning and communication, do not use for any commercial use to copy them, you can use public EPGStation; we can get this class to the TS file, or reserve the program directly. Please pay attention to the appointment program. After you do it, please make a remember to delete them.
 
-大阪府
+Osaka
 
 60.151.199.80:8888
 
@@ -26,7 +25,7 @@ Share BY YYSUB
 
 59.138.41.199:8888
 
-東京都
+tokyo
 
 59.138.41.199:8888   
 
@@ -48,7 +47,7 @@ Share BY YYSUB
 
 60.101.117.83:8888
 
-以上内容來自夜鶯家族字幕組，請合理使用
+The above content is from YYSUB, please use reasonable
 
 ### 放送番組の視聴・録画・管理
 
